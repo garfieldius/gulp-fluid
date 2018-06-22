@@ -1,0 +1,25 @@
+{
+  "name": "gulp-fluid",
+  "version": "1.0.0",
+  "description": "gulp integration of node-fluid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garfieldius/gulp-fluid.git"
+  },
+  "author": "Georg Großberger <contact@grossberger-ge.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/garfieldius/gulp-fluid/issues"
+  },
+  "homepage": "https://github.com/garfieldius/gulp-fluid#readme",
+  "dependencies": {
+    "merge": "^1.2.0",
+    "node-fluid": "^1.0.0",
+    "plugin-error": "^1.0.1",
+    "through2": "^2.0.3"
+  }
+}
